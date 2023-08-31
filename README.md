@@ -43,8 +43,6 @@ Aqui estão alguns projetos que estou desenvolvendo/ conclui recentemente:
 | [Auto Notification-Click](https://github.com/GustavoRosas-Dev/auto_notification-click) |  ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=FFD43B) | <b>Auto Notification Click</b> é uma automatização simples para fechar pop-ups e clicar em um local desejado em resposta a notificações. |
 | [ArqSync](https://github.com/GustavoRosas-Dev/arqsync) |  ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=323330) | O <b>ArqSync</b> é uma aplicação web (não finalizada) desenvolvida em React JS, projetada para simplificar e otimizar o preenchimento de documentos de arquitetura. |
 
-***OBS:*** _Ainda estou organizando e construindo esta seção. Volte, em breve, para conhecer meus outros projetos._
-
 <br>
 
 ## Entre em Contato
