@@ -22,7 +22,7 @@
 | Interfaces Gráficas | ![PySimpleGUI](https://img.shields.io/badge/PySimpleGUI-%236DB33F?style=for-the-badge&logo=python&logoColor=FFD43B) ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-%239B4F96?style=for-the-badge&logo=python&logoColor=323330)              | Experiência em desenvolvimento de interfaces gráficas.|
 | Versionamento de Software | ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=FFD43B) ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=FFD43B)         | Experiência em controle de versão de software.        |
 | Configurações do Usuário | ![JSON](https://img.shields.io/badge/JSON-%23000000?style=for-the-badge&logo=json&logoColor=FFD43B) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)        | Experiência em gerenciar preferências do usuário, permitindo personalizações persistentes no software.   |
-| Consumo de API's    | ![REST APIs](https://img.shields.io/badge/REST%20APIs-%232669B5?style=for-the-badge&logo=api&logoColor=FFD43B)               | Experiência em integração e consumo de APIs externas.  |
+| API's    | ![REST APIs](https://img.shields.io/badge/REST%20APIs-%232669B5?style=for-the-badge&logo=api&logoColor=FFD43B)               | Experiência em integração e consumo de APIs externas.  |
 | Outras Habilidades  | ![Unity](https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity&logoColor=FF4088)             | Experiência em desenvolvimento de jogos usando a Unity      |
 
 <br>
