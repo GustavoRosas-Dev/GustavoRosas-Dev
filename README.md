@@ -27,8 +27,8 @@ Sou <b>autodidata</b> e possuo experiência em <b>diversas tecnologias</b>. Ador
 
 | Linguagem de Programação   | Nível    |
 | -------------------------- | -------- |
-| ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=FFD43B)                     | Intermediário |
-| ![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=61DAFB) ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=FFD43B) ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=FFD43B) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330) ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=323330) | Básico |
+| ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=FFD43B) ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=FFD43B)                     | Intermediário |
+| ![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=61DAFB) ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=FFD43B) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330) ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=323330) | Básico |
 
 <br>
 
