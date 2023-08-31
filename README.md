@@ -6,8 +6,12 @@
 </div>
 <br>
 
-# Desenvolvedor Multidisciplinar Apaixonado por Tecnologia
-Sou <b>autodidata</b> e possuo experiência em <b>diversas tecnologias</b>. Adoro explorar novas linguagens de programação e frameworks, e estou sempre animado para trabalhar em projetos desafiadores.
+<div align="center">
+    <h1>Desenvolvedor Multidisciplinar Apaixonado por Tecnologia</h1>
+</div>
+<div align="center">
+    <p>Sou <b>autodidata</b> e possuo experiência em <b>diversas tecnologias</b>. Adoro explorar novas linguagens de programação e frameworks, e estou sempre animado para trabalhar em projetos desafiadores.</p>
+</div>
 
 <br>
 
