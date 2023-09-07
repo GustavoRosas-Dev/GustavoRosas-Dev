@@ -36,6 +36,7 @@
 | Testes Unitários  | ![UnitTests](https://img.shields.io/badge/UnitTests-%23000000?style=for-the-badge&logo=python&logoColor=FFD43B)             | Experiência em escrever testes unitários.      |
 | Automação Web  | ![Playwright](https://img.shields.io/badge/Playwright-%23000000?style=for-the-badge&logo=playwright&logoColor=FFD43B)             | Experiência em automação web usando Playwright.      |
 | Web Scraping  | ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%234285D6?style=for-the-badge&logo=python&logoColor=FFD43B) ![Requests](https://img.shields.io/badge/Requests-%23000000?style=for-the-badge&logo=python&logoColor=FFD43B) ![Cfscrape](https://img.shields.io/badge/Cfscrape-%23000000?style=for-the-badge&logo=python&logoColor=FFD43B)             | Experiência em web scraping usando BeautifulSoup, Requests e Cfscrape.      |
+| Conversão de Arquivos em Executáveis | ![PyInstaller](https://img.shields.io/badge/PyInstaller-%23000000?style=for-the-badge&logo=python&logoColor=FFD43B)               | Experiência em empacotar aplicativos Python em executáveis independentes usando o PyInstaller, facilitando a distribuição para usuários que não têm o Python instalado.      |
 | Outras Habilidades  | ![Unity](https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity&logoColor=FF4088)             | Experiência em desenvolvimento de jogos usando a Unity      |
 
 
