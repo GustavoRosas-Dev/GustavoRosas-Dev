@@ -70,4 +70,4 @@ Sinta-se à vontade para entrar em contato comigo se tiver alguma <b>dúvida</b>
 > Vamos nos conectar e ~~tomar um ☕~~ criar `coisas_incriveis.py` juntos! 
 
 <br><br>
-<img src="https://i.imgur.com/axuY543.gif" alt="gif" width="230" />
+<img src="https://i.imgur.com/s3ZeqUv.png" alt="gif" width="230" />
