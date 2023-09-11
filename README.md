@@ -14,14 +14,7 @@
 </div>
 <br>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoRosas-Dev&locale=pt-br&title_color=008afc&show_icons=true&theme=github_dark" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoRosas-Dev&locale=pt-br&title_color=008afc&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <br>
 
