@@ -15,9 +15,6 @@
 <br>
 
 
-
-<br>
-
 ## Experiência
 
 | Área | Stacks                         | Uso                                              |
