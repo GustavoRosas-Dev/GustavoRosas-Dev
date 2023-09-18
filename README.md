@@ -14,6 +14,15 @@
 </div>
 <br>
 
+## Nível de Proficiência
+<p>Aqui está um vislumbre das minhas habilidades e conhecimentos em diferentes áreas tecnológicas.</p>
+
+| Categoria | Stack | Nível |
+| - | - | - |
+| Linguagens de Programação | ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=FFD43B) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330) | Avançado/Intermediário |
+| Tecnologias | ![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=61DAFB)  ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=323330) | Intermediário/Básico |
+| Scripts e Estilização | ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=FFD43B) ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=FFD43B) | Básico |
+<br>
 
 ## Experiência
 <p>Minha experiência abrange várias áreas de desenvolvimento de software. Como um entusiasta autodidata, sempre busquei ampliar meus horizontes e dominar diversas tecnologias.</p>
@@ -32,19 +41,6 @@
 | Conversão de Aplicativos em Executáveis | ![PyInstaller](https://img.shields.io/badge/PyInstaller-%23000000?style=for-the-badge&logo=python&logoColor=FF5733) | Empacotamento de aplicativos Python em executáveis independentes para distribuição fácil e sem a necessidade de ter o Python instalado. |
 | Boas Práticas de Desenvolvimento  | ![Clean Code](https://img.shields.io/badge/Clean%20Code-%23269f26?style=for-the-badge) ![PEP 8](https://img.shields.io/badge/PEP%208-%233776AB?style=for-the-badge) ![Docstrings](https://img.shields.io/badge/Docstrings-%2361DAFB?style=for-the-badge) ![Modularização](https://img.shields.io/badge/Modularizacao-%23FFD700?style=for-the-badge) ![SOC](https://img.shields.io/badge/SOC-%23FF5733?style=for-the-badge) | Código de fácil leitura, aderência ao padrão de estilo "PEP 8" para Python, inclusão de "Docstrings" para documentação do código, "Modularização" para dividir o código em módulos reutilizáveis e o princípio "SOC" (Separação de Interesses) para manter a separação adequada entre as preocupações no desenvolvimento de software. Essas práticas visam garantir a qualidade, legibilidade e manutenibilidade do código-fonte. |
 | Outras Habilidades  | ![Unity](https://img.shields.io/badge/Unity-%23FF4088?style=for-the-badge&logo=unity&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23FF4088?style=for-the-badge&logo=figma&logoColor=white) | Experiência básica em desenvolvimento de jogos 2D e 3D usando a Unity. Prototipagem com o Figma. |
-
-
-<br>
-
-## Nível de Proficiência
-<p>Aqui está um vislumbre das minhas habilidades e conhecimentos em diferentes áreas tecnológicas. Lembre-se de que, como um <b>eterno aprendiz</b>, estou sempre buscando aprimorar e expandir meu conhecimento.</p>
-
-| Categoria | Stack | Nível |
-| - | - | - |
-| Linguagens de Programação | ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=FFD43B) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330) | Avançado/Intermediário |
-| Tecnologias | ![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=61DAFB)  ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=323330) | Intermediário/Básico |
-| Scripts e Estilização | ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=FFD43B) ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=FFD43B) | Básico |
-
 
 <br>
 
